@@ -59,7 +59,7 @@ Compare campaign performance across different customer segments to identify high
 - NumPy
 - Matplotlib / Seaborn
 - SQL
-- Power BI / Tableau / [Your Dashboard Tool]
+- Power BI / Tableau 
 - Jupyter Notebook
 
 ## 📁 Project Structure
